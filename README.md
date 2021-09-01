@@ -5,7 +5,7 @@
  <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianoRabaneda01&theme=blue-green"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoRabaneda01&theme=blue-green"/>
+<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoRabaneda01&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
 <img align="center" alt=" .C++ " height="30" width="40" link rel="stylesheet" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
