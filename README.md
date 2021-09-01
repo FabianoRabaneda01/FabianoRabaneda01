@@ -1,8 +1,7 @@
 
-- 👀 Estudante de engenharia civil se aventurando na TI #qual a chance de dar cer?
+- ⚙ Estudante de engenharia civil se aventurando na TI #qual a chance de dar certo?
 - 🌱 Sei o básico de .py :p #crio mais bugs que resolvo
-- 💞️ vamos ver se consigo fazer alguns cod para me ajudar no tcc //ouvi um amém ?
-- 📫 Instagram-> @fabianorabaneda ; mas não recomendo 
+- 💞️ vamos ver se consigo fazer alguns cod para meu tcc //ouvi um amém ?
  <div>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabianoRabaneda01&theme=blue-green"/>
